@@ -1,18 +1,18 @@
 
-#import math
-a=1
-b=10
-c=9
-print(a+b)
+# #import math
+# a=1
+# b=10
+# c=9
+# print(a+b)
 
 
-#print(math.sqrt(9))
+# #print(math.sqrt(9))
 
-# Elevazione a potenza
-base = 2
-esponente = 3
-risultato = base ** esponente
-print(risultato)  
+# # Elevazione a potenza
+# base = 2
+# esponente = 3
+# risultato = base ** esponente
+# print(risultato)  
 
 
 

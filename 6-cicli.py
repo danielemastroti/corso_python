@@ -22,3 +22,11 @@
 
 # for key, value in router.items():
 #     print(f"{key}: {value}")
+
+# numero = 1
+
+# while numero <= 5:
+#     print(numero)
+#     numero += 1 # Aggiornamento della variabile di controllo
+    
+# print("Ciclo terminato!")

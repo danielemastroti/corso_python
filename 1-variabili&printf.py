@@ -1,9 +1,9 @@
-x=100 # int
-my_name="Claudio" # string
-job_title="Network Engineer" # string
-attivo = True # boolean
-myfloat = 7.0 # float
-a, b = 3, 4
+# x=100 # int
+# my_name="Claudio" # string
+# job_title="Network Engineer" # string
+# attivo = True # boolean
+# myfloat = 7.0 # float
+# a, b = 3, 4
 
 # print(a, b)
 # print(type(attivo))
