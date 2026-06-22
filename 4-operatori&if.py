@@ -1,5 +1,5 @@
 
-import math
+#import math
 a=1
 b=10
 c=9
