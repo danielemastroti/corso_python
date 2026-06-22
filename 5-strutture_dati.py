@@ -10,8 +10,9 @@
 # # slicing
 # print(Frutta[1])
 
-# for item in Frutta:
-#     print(item)
+# if "Banana" in Frutta:
+#     print("La banana è presente nella lista")
+
 
 # Frutta.append("Kiwi")
 # print(Frutta)
@@ -41,6 +42,4 @@
 # print(router)
 # print(router["IP"])
 
-# for key, value in router.items():
-#     print(f"{key}: {value}")
 
